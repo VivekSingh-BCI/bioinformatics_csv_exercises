@@ -1,0 +1,9 @@
+sample_id,patient_id,tissue,condition,age,sequencing_depth
+S01,P001,blood,control,34.0,12000000.0
+S02,P002,blood,disease,45.0,15000000.0
+S03,P003,tumour,disease,52.0,22000000.0
+S04,P004,tumour,disease,45.0,21000000.0
+S05,P005,blood,control,29.0,21000000.0
+S06,P006,tumour,disease,61.0,25000000.0
+S07,P007,blood,control,38.0,13000000.0
+S08,P008,tumour,disease,55.0,24000000.0
