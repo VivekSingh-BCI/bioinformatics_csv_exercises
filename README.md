@@ -28,6 +28,14 @@ Beginner-friendly Jupyter notebooks for MSc students learning Python, scientific
 - `level_14_pandas_merge_gene_annotations.ipynb`: combine two CSV files using a shared gene column.
 - `level_15_pandas_microbiome_summary.ipynb`: summarise count data, calculate relative abundance, and plot results.
 
+### Level 4: More Python and Bioinformatics Practice
+
+- `level_16_python_list_comprehensions.ipynb`: practise list comprehensions for values, genes, and sequence lengths.
+- `level_17_python_debugging_practice.ipynb`: practise reading errors and fixing common beginner mistakes.
+- `level_18_bioinformatics_reverse_complement.ipynb`: write Python code for DNA complements and reverse complements.
+- `level_19_bioinformatics_codon_translation.ipynb`: translate short DNA sequences using a small codon table.
+- `level_20_bioinformatics_reading_sequence_files.ipynb`: read a small FASTA file and calculate sequence summaries.
+
 ## Suggested Order
 
 Start at `level_01` and continue in order. Each notebook includes examples followed by practice exercises.
